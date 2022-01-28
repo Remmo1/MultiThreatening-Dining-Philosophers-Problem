@@ -1,1 +1,1 @@
-# MultiThreatening_Dining_Philosophers_Problem
+# MultiThreatening Dining Philosophers Problem
